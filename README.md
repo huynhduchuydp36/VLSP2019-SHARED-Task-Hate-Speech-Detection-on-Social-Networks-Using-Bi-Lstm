@@ -24,3 +24,8 @@ This is the code for the [VLSP2019-SHARED Task: Hate Speech Detection on Social 
 
 
 You should use Google Colab to speed up the execution of the program.
+
+## Publication
+The detailed approach is described in the following paper:
+
+Hang Thi-Thuy Do, Huy Duc Huynh, Duc-Vu Nguyen, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, Anh Gia-Tuan Nguyen. Hate Speech Detection on Vietnamese Social Media Text using the Bidirectional-LSTM Model. The Sixth International Workshop on Vietnamese Language and Speech Processing VLSP 2019 - in conjunction with the international conference PACLING 2019. [Link.](http://vlsp.org.vn/sites/default/files/2019-10/VLSP2019-HSD-DoThiThuyHang.pdf?fbclid=IwAR2bSe5pTkGKCjk1SayOZosSoHT_YZqF1En57WB7n58ptELGIoBXIWl-msQ)
