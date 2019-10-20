@@ -16,7 +16,7 @@ This is the code for the [VLSP2019-SHARED Task: Hate Speech Detection on Social 
 
 ## Using
 
-1. Download Word embedding at link and save at folder Word embedding.
+1. Download Word embedding at [link](https://fasttext.cc/docs/en/crawl-vectors.html) and save at folder Word embedding.
 2. Implement file Preprocessing.py to make the data clear.(Implement for both csv file and save at Data folder. We have prepared train and test cleaned datasets in Data folder)
 3. Run main.py (Model and result file will be generated.)
 
